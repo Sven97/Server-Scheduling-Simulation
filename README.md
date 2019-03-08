@@ -28,7 +28,7 @@ Fraction of requests delayed in q > 1m:  (215.0)	0.02149999997926971
 
 Mean response time for small file (<=10KB):          (7599.0)	5.060857772433411
 Mean response time for medium file (>10KB, <1000KB): (2394.0)	5.6525932716095175
-Mean response time for large file (>=1000KB):        (7.0)		70.92182968419763
+Mean response time for large file (>=1000KB):        (7.0)	70.92182968419763
 
 Time simulation ended (10000.0 requests): 9954.492022964465
 
@@ -58,7 +58,7 @@ Fraction of requests delayed in q > 1m:  (81.0)		0.008100000150708688
 
 Mean response time for small file (<=10KB):          (7639.0)	2.7502493974347852
 Mean response time for medium file (>10KB, <1000KB): (2353.0)	4.700547114610173
-Mean response time for large file (>=1000KB):        (8.0)		62.052980601070196
+Mean response time for large file (>=1000KB):        (8.0)	62.052980601070196
 
 Time simulation ended (10000.0 requests): 10092.587840128617
 
@@ -88,7 +88,7 @@ Fraction of requests delayed in q > 1m:  (54.0)		0.005400000070912969
 
 Mean response time for small file (<=10KB):          (7610.0)	1.3361515224213125
 Mean response time for medium file (>10KB, <1000KB): (2381.0)	2.304570406384122
-Mean response time for large file (>=1000KB):        (9.0)		82.40164311944552
+Mean response time for large file (>=1000KB):        (9.0)	82.40164311944552
 
 Time simulation ended (10000.0 requests): 49811.9427155203
 
@@ -117,7 +117,7 @@ Fraction of requests delayed in q > 1m:  (78.0)		0.007799999850209705
 
 Mean response time for small file (<=10KB):          (7616.0)	1.2609299003258745
 Mean response time for medium file (>10KB, <1000KB): (2378.0)	2.8576345444137377
-Mean response time for large file (>=1000KB):        (6.0)		121.60674719140896
+Mean response time for large file (>=1000KB):        (6.0)	121.60674719140896
 
 Time simulation ended (10000.0 requests): 50417.12231443367
 
@@ -149,7 +149,7 @@ Fraction of requests delayed in q > 1m:  (254.0)	0.0254
 
 Mean response time for small file (<=10KB):          (7699.0)	5.647708848067816
 Mean response time for medium file (>10KB, <1000KB): (2294.0)	6.673910358273709
-Mean response time for large file (>=1000KB):        (7.0)		77.48127727660695
+Mean response time for large file (>=1000KB):        (7.0)	77.48127727660695
 
 Time simulation ended (10000.0 requests): 10104.454289365185
 
@@ -179,7 +179,7 @@ Fraction of requests delayed in q > 1m:  (137.0)	0.0137
 
 Mean response time for small file (<=10KB):          (7699.0)	3.307723963357547
 Mean response time for medium file (>10KB, <1000KB): (2294.0)	5.4828700216322215
-Mean response time for large file (>=1000KB):        (7.0)		85.57325702953104
+Mean response time for large file (>=1000KB):        (7.0)	85.57325702953104
 
 Time simulation ended (10000.0 requests): 10104.454289365185
 
@@ -209,7 +209,7 @@ Fraction of requests delayed in q > 1m:  (19.0)		0.0019
 
 Mean response time for small file (<=10KB):          (7699.0)	0.7441096470561346
 Mean response time for medium file (>10KB, <1000KB): (2294.0)	1.7614788948314088
-Mean response time for large file (>=1000KB):        (7.0)		69.04775147140752
+Mean response time for large file (>=1000KB):        (7.0)	69.04775147140752
 
 Time simulation ended (10000.0 requests): 50522.27144682565
 
@@ -239,7 +239,7 @@ Fraction of requests delayed in q > 1m:  (19.0)		0.0019
 
 Mean response time for small file (<=10KB):          (7699.0)	0.7174858535121102
 Mean response time for medium file (>10KB, <1000KB): (2294.0)	1.723256573253666
-Mean response time for large file (>=1000KB):        (7.0)		69.04775147140752
+Mean response time for large file (>=1000KB):        (7.0)	69.04775147140752
 
 Time simulation ended (10000.0 requests): 50522.27144682565
 
