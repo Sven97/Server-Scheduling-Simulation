@@ -249,6 +249,3 @@ Average delay in queue:  0.5347234861259367
 Average number in queue: 0.10583916178209238
 ```
 
-## Data Analysis
-
-For the **setup[A-D]** listed above, I also tried several times. The results in those attempts are relatively close or "stable" with ***number of trails*** of **1,000,000,000**.  **Setup[E-H]** is designated a seed for generate random number, which means the random number lists for both FIFO and SJF are totally the same, which can be used to verify the result. If we take a look at **setup[A, B]**, the only difference is the schdueling policy, the result suggests SJF beats FIFO by narrow margin in both response time or delay in queue, **setup[E, F]** also verifies this point. When I increase the interarrival time from **1** second to **5** seconds （e.g. **setup[C, D]**), the difference between these two policies is getting smaller and smaller, which also can be verified by **setup[E, F]**. The narrowing gap between the two policies is due to the longer interarrival time of that requests, which resulting a relatively ample time for server to process individual requests, and the significant reduction of requests waiting in queue.
